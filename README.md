@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on My Studies 😋🤓🏫
 - 🌱 I’m currently learning Python, C/C++, Ethical Hacking
 - 👯 I’m looking to collaborate on Artificial intelligence
 - 📫 How to reach me: Email- aryankrsinghfrank@gmail.com | aryankr01@protonmail.com 
