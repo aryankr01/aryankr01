@@ -1,9 +1,31 @@
-### Hi there, I'm Aryan👋
+# Hi, I'm Aryan 👋
 
-Here are some ideas to get you started:
+🎓 Computer Science student  
+💻 Interested in low-level programming, machine learning fundamentals, and systems  
+🚀 Focused on building strong foundations by implementing things from scratch
 
-- 🔭 I’m currently working on My Studies 🏫
-- 🌱 I’m currently learning Python, C/C++, Ethical Hacking
-- 👯 I’m looking to collaborate on Artificial intelligence
-- 📫 How to reach me: Email- aryankrsinghfrank@gmail.com 
+---
 
+## 🧠 Currently Working On
+- Core C/C++ programming
+- Data structures and algorithms
+- Machine learning fundamentals (from scratch, no frameworks)
+
+---
+
+## 🛠️ Skills & Learning
+- Languages: C, C++, Python
+- Concepts: Neural Networks, Optimization, Algorithms
+- Tools: Git, GitHub, Linux (basics)
+
+---
+
+## 🤝 Looking to Collaborate On
+- Beginner-friendly open-source projects
+- Low-level or ML-from-scratch implementations
+- Learning-focused CS projects
+
+---
+
+## 📫 Contact
+- Email: aryankrsinghfrank@gmail.com
