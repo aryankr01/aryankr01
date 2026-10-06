@@ -5,7 +5,7 @@
 <animateTransform attributeName="gradientTransform" type="translate" from="-.6 0" to=".6 0" dur="7s" repeatCount="indefinite"/></linearGradient></defs>
 <style>text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}.t{font-size:22px;font-weight:700;fill:url(#nm);animation:p 3s ease-in-out infinite alternate}@keyframes p{from{opacity:.75}to{opacity:1}}</style>
 <g clip-path="url(#r)"><rect width="900" height="140" fill="url(#bg)"/>
-<text class="t" x="450" y="58" text-anchor="middle">Thanks for stopping by — let's build something great.</text>
+<text class="t" x="450" y="58" text-anchor="middle">Thanks for stopping by, let's build something great.</text>
 <path d="M0 88 Q112 74 225 88 T450 88 T675 88 T900 88 T1125 88 T1350 88 T1575 88 T1800 88 V140 H0 Z" fill="#58a6ff" fill-opacity="0.13"><animateTransform attributeName="transform" type="translate" from="0 0" to="-450 0" dur="11s" repeatCount="indefinite"/></path>
 <path d="M0 97 Q112 78 225 97 T450 97 T675 97 T900 97 T1125 97 T1350 97 T1575 97 T1800 97 V140 H0 Z" fill="#bc8cff" fill-opacity="0.13"><animateTransform attributeName="transform" type="translate" from="0 0" to="-450 0" dur="8s" repeatCount="indefinite"/></path>
 <path d="M0 106 Q112 82 225 106 T450 106 T675 106 T900 106 T1125 106 T1350 106 T1575 106 T1800 106 V140 H0 Z" fill="#3fb950" fill-opacity="0.20"><animateTransform attributeName="transform" type="translate" from="0 0" to="-450 0" dur="6s" repeatCount="indefinite"/></path></g>
