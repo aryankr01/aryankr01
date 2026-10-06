@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="210" viewBox="0 0 440 210" fill="none" role="img" aria-label="LeetCode Progress">
+<defs>
+<clipPath id="c"><rect width="440" height="210" rx="14"/></clipPath>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#58a6ff"/><stop offset=".5" stop-color="#bc8cff"/><stop offset="1" stop-color="#3fb950"/></linearGradient>
+<linearGradient id="lc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffa116"/><stop offset="1" stop-color="#ff6a3d"/></linearGradient>
+</defs>
+<style>
+text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+.t{font-size:15px;font-weight:600;fill:#1f2328}
+.u{font-size:12px;fill:#656d76}
+.n{font-size:25px;font-weight:700}
+.l{font-size:12px;fill:#656d76}
+.s{font-size:11px;fill:#818a91}
+.a{animation:fade .8s ease-out both}
+.g{transform-box:fill-box;transform-origin:left center;animation:grow 1.3s cubic-bezier(.2,.8,.2,1) both}
+.ring{animation:ring 1.6s cubic-bezier(.2,.8,.2,1) both}
+.dl{stroke-dasharray:1;animation:draw 2.6s ease-out both}
+.bar{animation:sheen 4s ease-in-out infinite alternate}
+@keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes ring{from{stroke-dasharray:0 100}}
+@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@keyframes sheen{from{opacity:.55}to{opacity:1}}
+</style>
+<g clip-path="url(#c)">
+<rect width="440" height="210" fill="#1f2328fff"/>
+<rect width="440" height="3" fill="url(#ac)" class="bar"/>
+<circle cx="410" cy="-20" r="110" fill="#58a6ff" fill-opacity=".06"/>
+<circle cx="14" cy="22" r="4" fill="#58a6ff"><animate attributeName="opacity" values="1;.3;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<text class="t" x="28" y="27">LeetCode Progress</text>
+<text class="u" x="420" y="27" text-anchor="end">@4ryanks</text>
+
+<g class="a"><circle cx="90" cy="110" r="46" stroke="#d0d7de" stroke-width="8"/>
+<circle class="ring" cx="90" cy="110" r="46" stroke="url(#lc)" stroke-width="8" stroke-linecap="round" pathLength="100" stroke-dasharray="0.0 100" transform="rotate(-90 90 110)"/>
+<text class="n" x="90" y="112" text-anchor="middle" fill="#1f2328">0</text>
+<text class="l" x="90" y="129" text-anchor="middle">solved</text></g>
+<text class="s" x="90" y="184" text-anchor="middle">Global rank —</text>
+<g class="a" style="animation-delay:0.20s"><text class="t" x="176" y="78" style="font-size:13px;fill:#00b8a3">Easy</text><text class="l" x="412" y="78" text-anchor="end"><tspan fill="#1f2328" font-weight="600">0</tspan> / 0</text><rect x="176" y="86" width="236" height="6" rx="3" fill="#d0d7de"/><rect class="g" x="176" y="86" width="0.0" height="6" rx="3" fill="#00b8a3" style="animation-delay:0.30s"/></g><g class="a" style="animation-delay:0.35s"><text class="t" x="176" y="116" style="font-size:13px;fill:#ffc01e">Medium</text><text class="l" x="412" y="116" text-anchor="end"><tspan fill="#1f2328" font-weight="600">0</tspan> / 0</text><rect x="176" y="124" width="236" height="6" rx="3" fill="#d0d7de"/><rect class="g" x="176" y="124" width="0.0" height="6" rx="3" fill="#ffc01e" style="animation-delay:0.45s"/></g><g class="a" style="animation-delay:0.50s"><text class="t" x="176" y="154" style="font-size:13px;fill:#ef4743">Hard</text><text class="l" x="412" y="154" text-anchor="end"><tspan fill="#1f2328" font-weight="600">0</tspan> / 0</text><rect x="176" y="162" width="236" height="6" rx="3" fill="#d0d7de"/><rect class="g" x="176" y="162" width="0.0" height="6" rx="3" fill="#ef4743" style="animation-delay:0.60s"/></g>
+</g>
+<rect x=".5" y=".5" width="439" height="209" rx="14" stroke="#d8dee4"/>
+</svg>
