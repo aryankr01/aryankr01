@@ -30,7 +30,7 @@ text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
 <text class="t" x="28" y="27">GitHub Stats</text>
 <text class="u" x="420" y="27" text-anchor="end">@aryankr01</text>
 <g class="a" style="animation-delay:0.00s"><rect x="18" y="58" width="3" height="38" rx="1.5" fill="#58a6ff"/><text class="n" x="28" y="84" fill="#58a6ff">0</text><text class="l" x="28" y="100">Total Stars</text></g>
-<g class="a" style="animation-delay:0.12s"><rect x="226" y="58" width="3" height="38" rx="1.5" fill="#bc8cff"/><text class="n" x="236" y="84" fill="#bc8cff">17</text><text class="l" x="236" y="100">Commits (1y)</text></g>
+<g class="a" style="animation-delay:0.12s"><rect x="226" y="58" width="3" height="38" rx="1.5" fill="#bc8cff"/><text class="n" x="236" y="84" fill="#bc8cff">18</text><text class="l" x="236" y="100">Commits (1y)</text></g>
 <g class="a" style="animation-delay:0.24s"><rect x="18" y="102" width="3" height="38" rx="1.5" fill="#3fb950"/><text class="n" x="28" y="128" fill="#3fb950">0</text><text class="l" x="28" y="144">Pull Requests</text></g>
 <g class="a" style="animation-delay:0.36s"><rect x="226" y="102" width="3" height="38" rx="1.5" fill="#ffa657"/><text class="n" x="236" y="128" fill="#ffa657">0</text><text class="l" x="236" y="144">Issues</text></g>
 <g class="a" style="animation-delay:0.48s"><rect x="18" y="146" width="3" height="38" rx="1.5" fill="#ff7b72"/><text class="n" x="28" y="172" fill="#ff7b72">7</text><text class="l" x="28" y="188">Public Repos</text></g>
