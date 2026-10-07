@@ -31,7 +31,7 @@ text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
 <text class="u" x="420" y="27" text-anchor="end">@aryankr01</text>
 
 <line x1="147" y1="60" x2="147" y2="180" stroke="#d0d7de"/><line x1="293" y1="60" x2="293" y2="180" stroke="#d0d7de"/>
-<g class="a"><text class="n" x="73" y="110" text-anchor="middle" fill="#58a6ff">20</text>
+<g class="a"><text class="n" x="73" y="110" text-anchor="middle" fill="#58a6ff">21</text>
 <text class="l" x="73" y="132" text-anchor="middle">Contributions</text><text class="s" x="73" y="150" text-anchor="middle">last 12 months</text></g>
 <g class="a" style="animation-delay:.2s">
 <circle cx="220" cy="105" r="36" stroke="#d0d7de" stroke-width="6"/>
