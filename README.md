@@ -26,11 +26,11 @@
 
 ## 👋 About Me
 
-I'm a **second-year B.Tech Computer Science & Engineering student at Amity University** exploring the intersection of **Software Development and AI/ML**.
+**B.Tech Computer Science & Engineering student**.
 
 I like learning by building, experimenting with ideas, and understanding how systems work under the hood.
 
-> **Build. Break. Understand. Build again.**
+> ****
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg">
@@ -40,19 +40,19 @@ I like learning by building, experimenting with ideas, and understanding how sys
 
 ## 🚀 What I'm Working On
 
-### 🛰️ DEADNAVS — GNSS Dead-Reckoning & Telemetry
+<!-- ### 🛰️ DEADNAVS — GNSS Dead-Reckoning & Telemetry
 
 An Android-based dead-reckoning and telemetry platform for high-frequency motion tracking and navigation analysis.
 
-**Focus:** `GNSS` · `Sensor Fusion` · `Telemetry` · `Navigation` · `Data Analysis`
+**Focus:** `GNSS` · `Sensor Fusion` · `Telemetry` · `Navigation` · `Data Analysis` */
 
 <a href="https://github.com/DeadNAV/DeadReckoning">
   <img src="https://img.shields.io/badge/View_DEADNAVS-181717?style=for-the-badge&logo=github&logoColor=white" alt="View DEADNAVS">
-</a>
+</a> -->
 
 ### 🤖 AI / ML
 
-Exploring machine learning fundamentals and curiosity-driven AI through experimentation and research, with a focus on understanding the fundamentals behind intelligent systems.
+Exploring machine learning fundamentals and Data Science.
 
 ---
 
@@ -201,19 +201,7 @@ Explored curiosity-inspired mechanisms, intrinsic motivation, and reinforcement 
 
 ---
 
-<details>
-<summary><b>🏅 Beyond Code</b></summary>
-
-<br>
-
-🥋 **1st Dan Black Belt — Traditional Shito-Ryu Karate**
-
-🌍 **Model United Nations Delegate** — Participated in two MUN conferences.
-
-🤝 **Community Engagement & Social Impact Volunteer** — 75 hours of volunteer service.
-
-</details>
-
+<!--
 <details>
 <summary><b>💬 A little more about me</b></summary>
 
@@ -228,12 +216,7 @@ Currently focused on strengthening my **programming fundamentals, DSA, software 
 </details>
 
 <div align="center">
-
-### ⚡ Fun Fact
-
-**I can run fast, but my code runs faster.** 🏃‍♂️💻
-
-<br>
+-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
