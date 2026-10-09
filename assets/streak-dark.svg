@@ -35,10 +35,10 @@ text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
 <text class="l" x="73" y="132" text-anchor="middle">Contributions</text><text class="s" x="73" y="150" text-anchor="middle">last 12 months</text></g>
 <g class="a" style="animation-delay:.2s">
 <circle cx="220" cy="105" r="36" stroke="#21262d" stroke-width="6"/>
-<circle class="ring" cx="220" cy="105" r="36" stroke="url(#ac)" stroke-width="6" stroke-linecap="round" pathLength="100" stroke-dasharray="100 100" transform="rotate(-90 220 105)"/>
-<text class="n" x="220" y="114" text-anchor="middle" fill="#e6edf3">2</text>
+<circle class="ring" cx="220" cy="105" r="36" stroke="url(#ac)" stroke-width="6" stroke-linecap="round" pathLength="100" stroke-dasharray="0 100" transform="rotate(-90 220 105)"/>
+<text class="n" x="220" y="114" text-anchor="middle" fill="#e6edf3">0</text>
 <text class="l" x="220" y="163" text-anchor="middle" fill="#e6edf3" style="fill:#e6edf3;font-weight:600">Current Streak</text>
-<text class="s" x="220" y="181" text-anchor="middle">Oct 6 – Oct 7</text></g>
+<text class="s" x="220" y="181" text-anchor="middle">no active streak</text></g>
 <g class="a" style="animation-delay:.4s"><text class="n" x="367" y="110" text-anchor="middle" fill="#ffa657">2</text>
 <text class="l" x="367" y="132" text-anchor="middle">Longest Streak</text><text class="s" x="367" y="150" text-anchor="middle">Jan 4 – Jan 5</text></g>
 </g>
